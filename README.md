@@ -1,9 +1,10 @@
+![MasterHead](https://i.ibb.co/cSQWVDTs/5q92mjc5c51bjlwaj3rs9aa82.png)
 
-[![MasterHead](https://media.licdn.com/dms/image/v2/D5616AQH08hH4iREefA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1705158024442?e=1730937600&v=beta&t=oVN1SbKeyQ6_Wr3qe5bMd9hZOcMqFR6AXDeD2q5zG-I)](https://www.linkedin.com/in/yuvaraj-chandirasekaran-kvr/)
+
 <h1 align="center">Hi 👋, I'm Yuvaraj Chandirasekaran</h1>
-<h3 align="center">A passionate full stack developer</h3>
+<h3 align="center">A passionate software developer</h3>
 
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
+<img align="right" alt="Coding" width="400" src="https://cdn.vectorstock.com/i/500p/14/64/monkey-coder-logo-programmer-mascot-vector-28641464.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yuvarajcdckap&label=Profile%20views&color=0e75b6&style=flat" alt="yuvarajcdckap" /> </p>
 
@@ -14,17 +15,13 @@ Passionate about Web development, I believe that every day is a new opportunity 
 Join me as we navigate this beautiful journey called life, one smile at a time. 😊✈️🌻
 #LifeEnthusiast #Optimist #Dreamer
 
-- 🔭 I’m currently working on [PRODUCTIVITY TOOL](https://github.com/vigneshshankardckap/Todo-Management)
-
 - 🌱 I’m currently learning **React**
 
 - 📝 I regularly write articles on [https://ivanyuvaraj.wordpress.com/](https://ivanyuvaraj.wordpress.com/)
 
-- 💬 Ask me about **HTML, CSS, Javascript, PHP**
+- 💬 Ask me about **HTML, CSS, Javascript, React**
 
 - 📫 How to reach me **yuvaraj0274@gmail.com**
-
-- 📄 Know about my experiences [https://yuvarajcdckap.hackerresume.io/f4ef8321-d4ad-4ae3-81cc-28e04af7cd7c](https://yuvarajcdckap.hackerresume.io/f4ef8321-d4ad-4ae3-81cc-28e04af7cd7c)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
